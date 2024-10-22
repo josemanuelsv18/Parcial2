@@ -90,7 +90,7 @@ header h2 {
     width: 50%;
 }
 .seccion img{
-    width: 120px;
+    width: 150px;
     height: auto;
     border-radius: 5px;
     box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
@@ -116,6 +116,9 @@ header h2 {
 }
 #alexa{
     padding: 20px 0;
+}
+#waymo{
+    padding: 25px 0;
 }
 footer {
     background-color: #0077FF;
